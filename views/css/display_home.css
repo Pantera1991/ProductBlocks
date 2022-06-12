@@ -37,6 +37,7 @@
     border-radius: 25px;
     border: solid 1px #dfdfdf;
     transition: background-color .3s ease;
+    padding: 5px;
 }
 
 .p-block-btn-nav:hover {
@@ -140,6 +141,7 @@
     cursor: pointer;
     border-radius: 24px;
     transition: background-color .3s ease;
+    padding: 8px;
 }
 
 .p-button-add:disabled {
