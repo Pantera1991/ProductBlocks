@@ -1,0 +1,19 @@
+{
+  "name": "pchmielinski/product_bloks",
+  "autoload": {
+    "psr-4": {
+      "Piotr\\Module\\ProductBlocks\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "piotr",
+      "email": "piotr.chmielinski.91@gmail.com"
+    }
+  ],
+  "type": "prestashop-module",
+  "require": {
+    "php": ">= 7.4"
+  }
+}
+
