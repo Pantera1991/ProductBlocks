@@ -1,4 +1,4 @@
-# ProductBlocks module for PrestaShop
+# ProductBlocks
 
 The module displays three columns of products on the home page
 
